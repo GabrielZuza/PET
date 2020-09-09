@@ -5,3 +5,16 @@ Repository related to the `PET.py` projected, which aims to solve physics proble
 The `PET.py` was idealized in 2020 by members of the Program of Tutorial Education in physics, an institution of the Federal University of Rio Grande do Norte - UFRN, Brazil. 
 
 One could check all notebooks from this project at the [PET website](https://petfisica.home.blog/pet-py/), which I really recommend if you liked what you saw here.
+
+## Teaser
+
+- [Lissajous's Curves](https://github.com/GabrielZuza/PET/blob/master/Curva_de_lissajous.ipynb).
+![gif](https://github.com/GabrielZuza/PET/blob/master/Plots/Lissajous_GIF.gif)
+![Image](https://github.com/GabrielZuza/PET/blob/master/Plots/Lissajous.png)
+
+- [Sunspot](https://github.com/GabrielZuza/PET/blob/master/Sunspots.ipynb).
+![gif](https://github.com/GabrielZuza/PET/blob/master/Plots/Sunspots.png)
+
+- [Simple Pendulum](https://github.com/GabrielZuza/PET/blob/master/Pendulo_Simples.ipynb).
+![gif](https://github.com/GabrielZuza/PET/blob/master/Plots/simple_pend.png)
+
