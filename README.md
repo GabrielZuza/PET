@@ -8,6 +8,10 @@ One could check all notebooks from this project at the [PET website](https://pet
 
 ## Teaser
 
+- [Duble Pendulum](https://github.com/GabrielZuza/PET/blob/master/Duble_Pendulum.ipynb).
+![gif](https://github.com/GabrielZuza/PET/blob/master/Plots/Duble/Plot4.gif)
+![Image](https://github.com/GabrielZuza/PET/blob/master/Plots/Duble/Plot5.gif)
+
 - [Lissajous's Curves](https://github.com/GabrielZuza/PET/blob/master/Curva_de_lissajous.ipynb).
 ![gif](https://github.com/GabrielZuza/PET/blob/master/Plots/Lissajous_GIF.gif)
 ![Image](https://github.com/GabrielZuza/PET/blob/master/Plots/Lissajous.png)
