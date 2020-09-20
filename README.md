@@ -11,6 +11,7 @@ One could check all notebooks from this project at the [PET website](https://pet
 - [Duble Pendulum](https://github.com/GabrielZuza/PET/blob/master/Duble_Pendulum.ipynb).
 
 ![Image](https://github.com/GabrielZuza/PET/blob/master/Plots/Duble/Plot5.gif)
+![Image](https://github.com/GabrielZuza/PET/blob/master/Plots/Duble/Plot4.gif)
 
 - [Lissajous's Curves](https://github.com/GabrielZuza/PET/blob/master/Curva_de_lissajous.ipynb).
 
