@@ -16,7 +16,6 @@ One could check all notebooks from this project at the [PET website](https://pet
 - [Wilberforce Pendulum](https://github.com/GabrielZuza/PET/blob/master/Wilberforce_Pendulum.ipynb).
 
 ![Image](https://github.com/GabrielZuza/PET/blob/master/Plots/Wilberforce_pendulum.gif)
-![Image](https://github.com/GabrielZuza/PET/blob/master/Plots/Wilberforce2.png)
 
 
 - [Quantum Orbitals: Spherical harmonics](https://github.com/GabrielZuza/PET/blob/master/Quantum_Orbitals_Spherical_harmonics.ipynb).
