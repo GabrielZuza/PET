@@ -19,6 +19,14 @@ One could check all notebooks from this project at the [PET website](https://pet
 
 <img src="https://github.com/GabrielZuza/PET/blob/master/Plots/Wilberforce2.png" data-canonical-src="https://github.com/GabrielZuza/PET/blob/master/Plots/Wilberforce2.png" width="640" height="360" />
 
+
+- [Coronal Mass Ejection (CME)](https://github.com/GabrielZuza/PET/blob/master/Coronal_mass_ejection.ipynb).
+
+![Image](https://github.com/GabrielZuza/PET/blob/master/Plots/sdo.gif)
+
+<img src="https://github.com/GabrielZuza/PET/blob/master/Plots/CME_plot_1.png" data-canonical-src="https://github.com/GabrielZuza/PET/blob/master/Plots/CME_plot_1.png" width="640" height="360" />
+
+
 - [Quantum Orbitals: Spherical harmonics](https://github.com/GabrielZuza/PET/blob/master/Quantum_Orbitals_Spherical_harmonics.ipynb).
 
 ![gif](https://github.com/GabrielZuza/PET/blob/master/Plots/Orbitals.gif)
